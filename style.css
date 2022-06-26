@@ -13,11 +13,7 @@ body {
 }
 .parent {
   display: flex;
-  /* justify-content: center;
-    align-items: center; 
-    width: 100%;
-    min-width: 100vh;   */
-  /* flex-direction: row; */
+
 }
 .child1 {
   background-color: hsl(31, 77%, 52%);
@@ -105,4 +101,7 @@ body {
   background-color: hsl(179, 100%, 13%);
   border: 2px solid white;
   color: white;
+}
+a{
+text-decoration:none;
 }
